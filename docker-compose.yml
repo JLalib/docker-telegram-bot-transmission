@@ -7,5 +7,5 @@ telegrambot:
       - PORT=9091
       - TS_USER=usuario
       - PASSWORD=contraseÑa
-      - TOKEN=TOKEN
+      - TOKEN=ID:TOKEN
       - PERSISTENCE_FILE=/var/lib/transmission-telegram/authorized_chats
